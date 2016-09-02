@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "repo",
+    "redocVersion": "v1.x.x",
+    "repo": "mingderwang/openapi-repo",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
